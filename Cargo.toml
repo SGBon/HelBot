@@ -1,0 +1,7 @@
+[package]
+name = "helbot"
+version = "0.1.0"
+authors = ["Santiago Bonada <santiago.bonada@uoit.net>"]
+
+[dependencies]
+discord = "0.7.0"
